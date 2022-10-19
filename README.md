@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @StarkJarvis7
+- 👋 Hi, I’m Alex Vishwa
 - 👀 I’m interested in React Js
 - 🌱 I’m currently learning Grafana, Pyodide
 - 💞️ I’m looking to collaborate on ...
